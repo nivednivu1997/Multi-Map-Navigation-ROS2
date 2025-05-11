@@ -75,7 +75,9 @@ ros2 action send_goal /navigate_to_room custom_msgs/action/MapNavigation "target
       w: 1.0
 target_map: ''"
 
+## Acknowledgments  
 
+This project utilizes the Gazebo simulation setup from [ROS-Assignment](https://github.com/manojm-dev/ROS-Assignment).  
 
 
 ```
