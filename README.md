@@ -56,7 +56,7 @@ cd Multi-Map-Navigation-ROS2 && source install/setup.bash && ros2 launch butlerb
 cd cd Multi-Map-Navigation-ROS2 && source install/setup.bash && ros2 run cpp_node multi_map_node
 ```
 4. Run the action client(format)
-
+```
 ros2 action send_goal /navigate_to_room custom_msgs/action/MapNavigation "target_pose:
   header:
     stamp:
