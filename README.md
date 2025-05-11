@@ -19,7 +19,7 @@ This project implements a **multi-map navigation system** in ROS 2 where a mobil
 - `geometry_msgs`
 - `custom_msgs` (custom message package containing `MapNavigation.action`)
 
-## [Demonstration](https://drive.google.com/file/d/1Emu8EpixYeHzUSP-oKnuVpvai1Fv_Ksk/view?usp=sharing): 
+## [Demonstration] (https://drive.google.com/file/d/1Emu8EpixYeHzUSP-oKnuVpvai1Fv_Ksk/view?usp=sharing): 
 
 
 
