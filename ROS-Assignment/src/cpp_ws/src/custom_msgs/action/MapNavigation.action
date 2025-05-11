@@ -1,0 +1,8 @@
+geometry_msgs/PoseStamped target_pose
+string target_map
+---
+bool result
+string outcome   # Alternative for 'status' in Result
+---
+float32 progress
+
