@@ -26,16 +26,16 @@ This project implements a **multi-map navigation system** in ROS 2 where a mobil
 ## Steps to run
 
 
-```
+
 1. Clone the repo 
 ```
 git clone https://github.com/nivednivu1997/Multi-Map-Navigation-ROS2.git
 ```
-3. Install Dependencies
+2. Install Dependencies
 ```
 rosdep install --from-path src --ignore-src -y
 ```
-4. Building
+3. Building Package
 ```
  cd Multi-Map-Navigation-ROS2 && colon build --symlink-install
 ```
